@@ -4,12 +4,14 @@ import { Phone, MapPin, User } from 'lucide-react';
 const categories = [
   '轴流风机',
   '离心风机',
-  '屋顶风机',
   '斜流风机',
   '除臭风机',
-  '隔音风机',
   '高压风机',
-  '4-72离心风机'
+  '4-72离心风机',
+  '边墙风机',
+  '方形壁式轴流风机',
+  '离心式屋顶风机',
+  '轴流式屋顶风机'
 ];
 
 export function Sidebar() {

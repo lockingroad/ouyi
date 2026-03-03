@@ -1,6 +1,6 @@
 import { Sidebar } from "@/components/layout/Sidebar";
 import Link from "next/link";
-import { Phone, MapPin, Mail, Clock, User } from "lucide-react";
+import { Phone, Mail, Clock, MapPin, User } from "lucide-react";
 
 export const metadata = {
   title: '联系我们 - 河北欧意风机',
@@ -76,16 +76,7 @@ export default function ContactPage() {
                 </div>
               </div>
 
-              {/* 百度地图占位区域 */}
-              <div className="border border-gray-200 p-2 bg-white">
-                <div className="bg-gray-100 w-full h-100 flex items-center justify-center text-gray-500">
-                  <div className="text-center">
-                    <MapPin className="w-12 h-12 mx-auto mb-2 text-gray-400" />
-                    <p>电子地图占位区</p>
-                    <p className="text-sm mt-2">（实际部署时可嵌入百度地图 iframe）</p>
-                  </div>
-                </div>
-              </div>
+
             </div>
           </div>
         </main>
