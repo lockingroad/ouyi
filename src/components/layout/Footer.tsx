@@ -10,7 +10,7 @@ export function Footer() {
             <p className="mb-2"><strong>公司名称：</strong>河北欧意科技集团有限公司</p>
             <p className="mb-2"><strong>联系人：</strong>郭建民</p>
             <p className="mb-2"><strong>联系电话：</strong>13931816112</p>
-            <p className="mb-2"><strong>厂址：</strong>河北省（具体地址待定）</p>
+            <p className="mb-2"><strong>厂址：</strong>河北省衡水市枣强县富强北路 366 号</p>
           </div>
           
           <div className="mb-6 md:mb-0">

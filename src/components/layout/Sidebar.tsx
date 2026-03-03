@@ -61,7 +61,7 @@ export function Sidebar() {
             <MapPin className="w-4 h-4 mt-1 text-gray-500 shrink-0" />
             <div>
               <span className="text-gray-500">厂址：</span>
-              河北省衡水市枣强县玻璃钢工业园
+              河北省衡水市枣强县富强北路 366 号
             </div>
           </div>
         </div>

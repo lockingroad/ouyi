@@ -70,7 +70,7 @@ export default function ContactPage() {
                     <MapPin className="w-5 h-5 mt-1 text-[#0056b3] shrink-0" />
                     <div>
                       <span className="font-bold w-24 inline-block">公司地址：</span>
-                      <span>河北省衡水市枣强县玻璃钢工业园</span>
+                      <span>河北省衡水市枣强县富强北路 366 号</span>
                     </div>
                   </div>
                 </div>
