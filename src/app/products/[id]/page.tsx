@@ -33,7 +33,7 @@ export default async function ProductDetailPage({
   }
 
   return (
-    <div className="bg-gray-50 py-8">
+    <div key={id} className="bg-gray-50 py-8">
       <div className="container mx-auto mb-4 text-sm text-gray-500">
         当前位置：
         <Link href="/" className="hover:text-[#0056b3]">首页</Link> &gt;{' '}
